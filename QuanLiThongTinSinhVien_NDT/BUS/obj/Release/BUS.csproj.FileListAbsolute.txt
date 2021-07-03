@@ -1,0 +1,11 @@
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\Release\BUS.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\Release\BUS.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\Release\DAL.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\Release\DTO.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\Release\DAL.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\Release\DTO.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\Release\BUS.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\Release\BUS.csproj.CopyComplete
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\Release\BUS.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\Release\BUS.pdb

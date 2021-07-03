@@ -1,0 +1,11 @@
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\x64\Debug\BUS.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\x64\Debug\BUS.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\x64\Debug\DAL.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\x64\Debug\DTO.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\x64\Debug\DAL.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\bin\x64\Debug\DTO.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\x64\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\x64\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\x64\Debug\BUS.csproj.CopyComplete
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\x64\Debug\BUS.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\BUS\obj\x64\Debug\BUS.pdb

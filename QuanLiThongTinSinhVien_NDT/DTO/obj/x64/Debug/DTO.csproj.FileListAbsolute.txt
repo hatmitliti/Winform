@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\bin\x64\Debug\DTO.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\bin\x64\Debug\DTO.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\obj\x64\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\obj\x64\Debug\DTO.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\obj\x64\Debug\DTO.pdb

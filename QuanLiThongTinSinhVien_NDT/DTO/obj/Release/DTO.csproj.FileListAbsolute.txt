@@ -1,0 +1,6 @@
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\bin\Release\DTO.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\bin\Release\DTO.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\obj\Release\DTO.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\obj\Release\DTO.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DTO\obj\Release\DTO.pdb

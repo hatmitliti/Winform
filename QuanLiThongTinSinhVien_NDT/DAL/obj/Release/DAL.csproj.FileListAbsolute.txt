@@ -1,0 +1,9 @@
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\bin\Release\DAL.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\bin\Release\DAL.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\bin\Release\DTO.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\bin\Release\DTO.pdb
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\obj\Release\DAL.dll
+C:\Users\Acer\Documents\DoAnLTUD\QuanLiThongTinSinhVien_NDT\DAL\obj\Release\DAL.pdb
